@@ -1,6 +1,6 @@
 {
   "name": "GClient",
-  "version": "1.2.0",
+  "version": "1.3.2",
   "description": "LinuxServer Guacamole Client",
   "main": "app.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linuxserver/gclient.git"
+    "url": "git+https://github.com/ryanheyser/gclient.git"
   },
-  "author": "thelamer",
+  "author": "ryanheyser",
   "license": "GPLV3",
-  "homepage": "https://www.linuxserver.io/",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.20.3",
     "ejs": "^3.1.10",
