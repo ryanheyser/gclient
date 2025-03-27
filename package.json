@@ -14,7 +14,7 @@
   "license": "GPLV3",
   "homepage": "",
   "dependencies": {
-    "body-parser": "^1.20.3",
+    "body-parser": "^2.2.0",
     "ejs": "^3.1.10",
     "express": "^4.21.2",
     "guacamole-lite": "0.7.2",
