@@ -17,7 +17,7 @@
     "body-parser": "^2.2.0",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
-    "guacamole-lite": "0.7.3",
+    "guacamole-lite": "1.0.2",
     "node-linux-pam": "0.2.1",
     "socket.io": "^4.8.1"
   }
